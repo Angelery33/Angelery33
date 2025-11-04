@@ -19,7 +19,7 @@ Soy un entusiasta del desarrollo de software y actualmente estoy cursando el 2º
 
 
 ### 💬 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Tu enlace de LinkedIn])
-[![Correo Electrónico](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[Tu Correo Electrónico])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/angel-cantero-canillar-6aa94827a])
+[![Correo Electrónico](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[angelcantero99@gmail.com])
 
 ---
