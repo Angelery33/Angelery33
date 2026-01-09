@@ -9,10 +9,6 @@ Soy un entusiasta del desarrollo de software y actualmente estoy cursando el 2º
 
 ### 🛠️ Stack Tecnológico
 
-| Lenguajes | Frameworks | Bases de Datos | Herramientas |
-| :---: | :---: | :---: | :---: |
-### 🛠️ Stack Tecnológico
-
 | Lenguajes | Frontend | Bases de Datos | Móvil |
 | :---: | :---: | :---: | :---: |
 | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) |
